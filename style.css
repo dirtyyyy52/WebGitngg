@@ -1,3 +1,13 @@
 h1{
     background-color:mediumpurple;
 }
+div{
+    background-color:lightsalmon;
+    border: 2px solid black;
+    border-radius:15%;
+    margin: 5px;
+    padding:5px;
+    font-size: 20px;
+    font-family: arial;
+    color:#1e7772;
+}
