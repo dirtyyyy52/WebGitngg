@@ -1,0 +1,12 @@
+h1{
+    color:mediumvioletred;
+    border: 3px solid darkseagreen;
+    border-radius:45%;
+    padding:20px;
+}
+p{
+    color:red;
+    border: 3px solid blue;
+    border-radius:45%;
+    margin:20px;
+}
