@@ -11,3 +11,7 @@ div{
     font-family: arial;
     color:#1e7772;
 }
+img{
+    border: 9px dashed lightgreen;
+    background:lightgreen;
+}
